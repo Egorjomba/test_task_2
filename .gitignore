@@ -1,0 +1,11 @@
+# Игнорировать кеши
+__pycache__/
+*.pyc
+
+# Игнорировать драйверы (например, ChromeDriver)
+chromedriver
+geckodriver
+
+# Игнорировать виртуальные окружения
+venv/
+env/
